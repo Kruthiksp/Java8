@@ -1,4 +1,4 @@
-package comkruthik.java8;
+package com.kruthik.java8;
 
 import java.util.Arrays;
 import java.util.List;
