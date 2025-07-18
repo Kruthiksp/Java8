@@ -4,10 +4,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/* 
- * Filter Even Numbers Using Stream API 
-*/
-
+	/*
+	 * 	Given a list of integers, use Java 8 Stream API to filter out the even numbers and collect them into a new list.
+	*/
 public class Day1 {
 
 	public static void main(String[] args) {
