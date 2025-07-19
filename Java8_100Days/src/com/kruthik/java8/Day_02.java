@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 /*
  * Given a list of integers, use Java 8 Stream API and map() to square each number and collect the results into a new list.	
 */
-public class Day2 {
+public class Day_02 {
 
 	public static void main(String[] args) {
 

@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 	/*
 	 * 	Given a list of integers, use Java 8 Stream API to filter out the even numbers and collect them into a new list.
 	*/
-public class Day1 {
+public class Day_01 {
 
 	public static void main(String[] args) {
 
