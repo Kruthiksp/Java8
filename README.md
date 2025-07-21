@@ -10,4 +10,5 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Square each of those odd numbers.
     Collect the result into a new list
 04. Given a list of lowercase strings, use Java 8 Stream and map() to convert each string to uppercase and collect the result into a new list.
+05. Given a list of strings, sort them in ascending order of their lengths using Java 8 features.
 </pre>
