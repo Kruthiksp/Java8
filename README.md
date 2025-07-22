@@ -11,4 +11,7 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Collect the result into a new list
 04. Given a list of lowercase strings, use Java 8 Stream and map() to convert each string to uppercase and collect the result into a new list.
 05. Given a list of strings, sort them in ascending order of their lengths using Java 8 features.
+06. Given a list of Person Object,
+    Sort the list of Person objects by age in ascending order
+    Then by name in alphabetical order if ages are equal
 </pre>
