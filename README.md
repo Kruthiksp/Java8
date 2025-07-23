@@ -14,6 +14,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 06. Given a list of Person Object,
     Sort the list of Person objects by age in ascending order
     Then by name in alphabetical order if ages are equal.
+07. Given a list of Product Object,
+    Filter the products that cost more than ₹1000
+	Collect the result into a new List
+	Print the filtered list.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
