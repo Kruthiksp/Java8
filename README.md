@@ -5,7 +5,7 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 <pre>
 01. Given a list of integers, use Java 8 Stream API to filter out the even numbers and collect them into a new list.
 02. Given a list of integers, use Java 8 Stream API and map() to square each number and collect the results into a new list.
-03. Given a list of integers, Filter only the odd numbers,
+03. Given a list of integers,
     Filter only the odd numbers
     Square each of those odd numbers
     Collect the result into a new list.
@@ -18,6 +18,12 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Filter the products that cost more than ₹1000
     Collect the result into a new List
     Print the filtered list.
+08. Given a list of Product Object,
+    Convert this list into a Map<String, Double> where
+        -> Key = Product name
+        -> Value = Product price
+    If the product names are duplicated
+        -> Use  "Merge Function".
 </pre>
 
 <h2>Bonus Problem Statements</h2>
