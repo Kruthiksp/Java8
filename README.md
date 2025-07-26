@@ -25,10 +25,15 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     If the product names are duplicated
         -> Use  "Merge Function".
 09. Given a Map<String, Integer> representing products and their stock quantities
-	Filter products where the stock is less than 100.
-	Sort the result by stock quantity (ascending).
-	Collect into a new LinkedHashMap (to maintain sort order).
-	Print the result.
+    Filter products where the stock is less than 100.
+    Sort the result by stock quantity (ascending).
+    Collect into a new LinkedHashMap (to maintain sort order).
+    Print the result.
+10 Given a list of Transaction objects
+	Group the transactions by category
+	Find the total amount spent in each category
+	Store the result in a Map<String, Double>
+	Print the final grouped totals
 </pre>
 
 <h2>Bonus Problem Statements</h2>
