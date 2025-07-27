@@ -29,11 +29,14 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Sort the result by stock quantity (ascending).
     Collect into a new LinkedHashMap (to maintain sort order).
     Print the result.
-10 Given a list of Transaction objects
+10. Given a list of Transaction objects
 	Group the transactions by category
 	Find the total amount spent in each category
 	Store the result in a Map<String, Double>
 	Print the final grouped totals
+11. Given a list of Order objects.
+    Each order contains a list of Items.
+    create a List<String> containing the names of all items from all orders.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
@@ -42,4 +45,8 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Sort the list of Employee objects by department.
 02. Given a list of Product Objects,
     find the product with Maximum price.
+03. Given a List<Student>,
+	extract all unique course names (i.e., no duplicates).
+	sort them alphabetically.
+	Collect the result into a List<String>.
 </pre>
