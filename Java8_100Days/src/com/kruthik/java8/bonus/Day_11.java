@@ -7,7 +7,8 @@ import java.util.stream.Collectors;
 import com.kruthik.java8.entities.Student;
 
 	/**
-	 *	Given a List<Student>, extract all unique course names (i.e., no duplicates).
+	 *	Given a List<Student>,
+	 *	extract all unique course names (i.e., no duplicates).
 	 *	Sort them alphabetically.
 	 *	Collect the result into a List<String>.
 	 */
