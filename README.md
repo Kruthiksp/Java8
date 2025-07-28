@@ -37,6 +37,13 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 11. Given a list of Order objects.
     Each order contains a list of Items.
     create a List<String> containing the names of all items from all orders.
+12. Given a list of Department objects.
+    Each department has a name and a list of employees.
+    From the list of departments
+        -> Extract names of employees who have a salary greater than ₹50,000
+        -> Avoid duplicates (assume multiple departments can have employees with the same name).
+        -> Sort the names alphabetically.
+        -> Collect into a List<String>.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
