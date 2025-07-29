@@ -44,6 +44,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
         -> Avoid duplicates (assume multiple departments can have employees with the same name).
         -> Sort the names alphabetically.
         -> Collect into a List<String>.
+13. You are given a list of Department objects. Each Department has a list of Employee objects.
+	Get a Map where:
+		Key: Department name
+		Value: List of names of employees in that department who earn more than ₹60,000
+	The employee names should be sorted alphabetically.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
