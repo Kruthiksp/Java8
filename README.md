@@ -49,6 +49,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 		Key: Department name
 		Value: List of names of employees in that department who earn more than ₹60,000
 	The employee names should be sorted alphabetically.
+14. You are given a list of Order objects.
+    Flatten all items from all orders
+	Group the items by their name
+	Calculate the total price for each item name
+	Store the result in a Map<String, Double> where key = item name, value = total price
 </pre>
 
 <h2>Bonus Problem Statements</h2>
