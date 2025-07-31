@@ -8,6 +8,20 @@ import java.util.stream.Collectors;
 import com.kruthik.java8.entities.Item;
 import com.kruthik.java8.entities.Order;
 
+/*
+ * You are given a list of Order objects. Each Order has:
+ *		An id
+ *		A List<Item> called items
+ *	Each Item has:
+ *		String name
+ *		double price
+ *
+ *	Flatten all items from all orders
+ *	Group the items by their name
+ *	Calculate the total price for each item name
+ *	Store the result in a Map<String, Double> where key = item name, value = total price
+ */
+
 public class Day_14 {
 
 	public static void main(String[] args) {

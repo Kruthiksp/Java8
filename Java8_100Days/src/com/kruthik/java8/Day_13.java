@@ -8,6 +8,15 @@ import java.util.stream.Collectors;
 import com.kruthik.java8.entities.Department;
 import com.kruthik.java8.entities.Employee;
 
+/*
+ * 
+ *	You are given a list of Department objects. Each Department has a list of Employee objects.
+ *		Get a Map where:
+ *			Key: Department name
+ *			Value: List of names of employees in that department who earn more than ₹60,000
+ *	The employee names should be sorted alphabetically.
+ *
+ */
 public class Day_13 {
 
 	public static void main(String[] args) {
