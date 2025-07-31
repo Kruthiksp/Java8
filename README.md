@@ -54,6 +54,7 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Group the items by their name
 	Calculate the total price for each item name
 	Store the result in a Map<String, Double> where key = item name, value = total price
+15. Given a list of Book objects, group the books by author and then collect the book titles (as a list) for each author.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
