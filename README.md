@@ -55,6 +55,13 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Calculate the total price for each item name
 	Store the result in a Map<String, Double> where key = item name, value = total price
 15. Given a list of Book objects, group the books by author and then collect the book titles (as a list) for each author.
+16. You are given a list of Department objects. 
+        Each department has a name and a list of Employee objects.
+        Each employee has a name, department, and salary
+    From all employees in all departments:
+        Group employees by department name.
+        For each department, find the highest-paid employee.
+        Return a Map<String, Employee> where key is department name, and value is the highest-paid employee of that department.	
 </pre>
 
 <h2>Bonus Problem Statements</h2>
