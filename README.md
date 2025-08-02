@@ -62,6 +62,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
         Group employees by department name.
         For each department, find the highest-paid employee.
         Return a Map<String, Employee> where key is department name, and value is the highest-paid employee of that department.	
+17. You are given a list of Transaction objects.
+    Each transaction has: category, paymentMethod, amount.
+        Group the transactions by category.
+        Then group each category’s transactions by paymentMethod.
+        Sum the total amount spent per payment method per category.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
