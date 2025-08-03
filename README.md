@@ -67,6 +67,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
         Group the transactions by category.
         Then group each category’s transactions by paymentMethod.
         Sum the total amount spent per payment method per category.
+18. You are given a list of Product objects,
+	Each with a name and a price.(Some products may have the same name but different prices.)
+    Group the products into a Map<String, Double> where 
+        key -> product name
+        value -> average price for that product name.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
@@ -79,4 +84,6 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	extract all unique course names (i.e., no duplicates).
 	sort them alphabetically.
 	Collect the result into a List<String>.
+04. Sort the resulting of Day_18 map by average price in descending order and 
+    collect it into a LinkedHashMap to preserve that order?
 </pre>
