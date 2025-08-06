@@ -10,7 +10,8 @@ import com.kruthik.java8.entities.Employee;
 
 /*
  * You are given a list of Department objects.
- * 		Each department has a name and a list of Employee objects. Each employee has a name and salary.	
+ * 		Each department has a name and a list of Employee objects.
+ * 		Each employee has a name and salary.	
  * 		Find the department name that has the highest average salary.
  */
 public class Day_20 {

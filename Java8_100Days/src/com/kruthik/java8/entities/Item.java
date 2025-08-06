@@ -3,6 +3,7 @@ package com.kruthik.java8.entities;
 public class Item {
 
 	private String name;
+	private String category;
 	private double price;
 	private int quantity;
 
@@ -16,6 +17,13 @@ public class Item {
 		super();
 		this.name = name;
 		this.price = price;
+		this.quantity = quantity;
+	}
+
+	public Item(String name, String category, int quantity) {
+		super();
+		this.name = name;
+		this.category = category;
 		this.quantity = quantity;
 	}
 
@@ -35,10 +43,23 @@ public class Item {
 		this.quantity = quantity;
 	}
 
+	public String getCategory() {
+		return category;
+	}
+
+	public void setCategory(String category) {
+		this.category = category;
+	}
+
 	@Override
 	public String toString() {
-		return "Item [name=" + name + ", price=" + price + ", quantity=" + quantity + "]";
+		return "Item [name=" + name + ", category=" + category + ", quantity=" + quantity + "]";
 	}
+
+//	@Override
+//	public String toString() {
+//		return "Item [name=" + name + ", price=" + price + ", quantity=" + quantity + "]";
+//	}
 
 //	@Override
 //	public String toString() {
