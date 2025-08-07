@@ -80,6 +80,8 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Find the department name that has the highest average salary.
 21. You are given a list of Order objects. Each Order contains a list of Items.
     Compute the total quantity sold for each item category across all orders.
+22. Given a list of Student objects, each having:
+    Group the students by gradeLevel, and within each grade, group them by subject, and calculate the average marks for each subject.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
