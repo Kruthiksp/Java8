@@ -82,6 +82,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Compute the total quantity sold for each item category across all orders.
 22. Given a list of Student objects, each having:
     Group the students by gradeLevel, and within each grade, group them by subject, and calculate the average marks for each subject.
+23. You have a list of Transaction objects:
+    create a map where:
+        Key -> City name
+        Value -> List of transaction types in that city where the total amount is greater than 1000
 </pre>
 
 <h2>Bonus Problem Statements</h2>
