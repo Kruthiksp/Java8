@@ -86,6 +86,7 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     create a map where:
         Key -> City name
         Value -> List of transaction types in that city where the total amount is greater than 1000
+24. Given a list of employees, find the average salary for each gender per department.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
