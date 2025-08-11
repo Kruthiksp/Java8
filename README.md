@@ -40,10 +40,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 12. Given a list of Department objects.
     Each department has a name and a list of employees.
     From the list of departments
-        -> Extract names of employees who have a salary greater than ₹50,000
-        -> Avoid duplicates (assume multiple departments can have employees with the same name).
-        -> Sort the names alphabetically.
-        -> Collect into a List<String>.
+    -> Extract names of employees who have a salary greater than ₹50,000
+    -> Avoid duplicates (assume multiple departments can have employees with the same name).
+    -> Sort the names alphabetically.
+    -> Collect into a List<String>.
 13. You are given a list of Department objects. Each Department has a list of Employee objects.
 	Get a Map where:
 		Key: Department name
@@ -88,10 +88,15 @@ Solving one Java8 questions daily starting from very basic to advance covering a
         Value -> List of transaction types in that city where the total amount is greater than 1000
 24. Given a list of employees, find the average salary for each gender per department.
 25. Given a List of Order Objects
-        -> From a given List<Order>, group the orders by city,
-        -> Inside each city, further group by category,
-        -> For each category, calculate the total sales amount,
-        -> Sort the categories in descending order of sales within each city.
+    -> From a given List<Order>, group the orders by city,
+    -> Inside each city, further group by category,
+    -> For each category, calculate the total sales amount,
+    -> Sort the categories in descending order of sales within each city.
+26. Given a List of Transaction Objects
+    -> Filter transactions that happened in 2023 only.
+    -> Group these transactions by city.
+    -> For each city, find the transaction with the maximum amount.
+    -> Finally, sort the result by the highest transaction amount (descending order).
 </pre>
 
 <h2>Bonus Problem Statements</h2>
