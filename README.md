@@ -97,6 +97,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Group these transactions by city.
     -> For each city, find the transaction with the maximum amount.
     -> Finally, sort the result by the highest transaction amount (descending order).
+27. Given a list of Employee objects.
+    -> Group employees by city and then by department.
+    -> For each department in each city, find the average salary.
+    -> Sort the departments in descending order of their overall average salary.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
