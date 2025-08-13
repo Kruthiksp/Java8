@@ -101,6 +101,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Group employees by city and then by department.
     -> For each department in each city, find the average salary.
     -> Sort the departments in descending order of their overall average salary.
+28. Given a List of Product Objects
+    -> Group the products by category.
+    -> For each category, find the product with the highest rating.
+    -> Sort the categories by average price (descending).
 </pre>
 
 <h2>Bonus Problem Statements</h2>
