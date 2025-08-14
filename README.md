@@ -105,6 +105,12 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Group the products by category.
     -> For each category, find the product with the highest rating.
     -> Sort the categories by average price (descending).
+29. Given a list of Employee objects
+    -> Find the average salary of employees for each department.
+    -> For each department, find the highest-paid employee.
+    -> Sort the departments by average salary in descending order and collect the result in a LinkedHashMap where
+        -> key = department
+        -> value = a Map.Entry<Double, Employee> (average salary, top employee).
 </pre>
 
 <h2>Bonus Problem Statements</h2>
