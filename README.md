@@ -111,6 +111,12 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Sort the departments by average salary in descending order and collect the result in a LinkedHashMap where
         -> key = department
         -> value = a Map.Entry<Double, Employee> (average salary, top employee).
+30. given a list of Book objects
+    Group the books by genre.
+    For each genre:
+        Find the average price of books.
+        Find the most recently published book.
+    Sort the genres by average price in descending order
 </pre>
 
 <h2>Bonus Problem Statements</h2>
