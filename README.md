@@ -117,6 +117,12 @@ Solving one Java8 questions daily starting from very basic to advance covering a
         Find the average price of books.
         Find the most recently published book.
     Sort the genres by average price in descending order
+31. Given a List of Movie Objects.
+    Group movies by genre.
+    For each genre, calculate the average rating.
+    Find the highest-rated movie in each genre.
+    Sort genres by their average rating (descending) and display results in the format:
+    	Genre -> Average Rating | Top Movie Title
 </pre>
 
 <h2>Bonus Problem Statements</h2>
