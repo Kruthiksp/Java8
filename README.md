@@ -123,6 +123,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Find the highest-rated movie in each genre.
     Sort genres by their average rating (descending) and display results in the format:
     	Genre -> Average Rating | Top Movie Title
+32. Given a List of Employee Objects.
+    Partition employees into two groups:
+    	-> Those who joined before 2018
+    	-> Those who joined in or after 2018
+    For each partition, collect the names of employees as a comma-separated string.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
