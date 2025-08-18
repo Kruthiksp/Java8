@@ -128,6 +128,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     	-> Those who joined before 2018
     	-> Those who joined in or after 2018
     For each partition, collect the names of employees as a comma-separated string.
+33. Given a list of Order objects 
+    Group orders by city
+    For each city, calculate the total delivered amount (status = "DELIVERED").
+    From those, find the city with the maximum delivered amount.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
