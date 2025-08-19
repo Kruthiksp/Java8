@@ -132,6 +132,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Group orders by city
     For each city, calculate the total delivered amount (status = "DELIVERED").
     From those, find the city with the maximum delivered amount.
+34. Given list of Order Objects
+    Consider only the orders with status = "DELIVERED".
+    For each city, find the category that has the highest total sales amount.
+    Print results like
+    city -> category (Total amount)
 </pre>
 
 <h2>Bonus Problem Statements</h2>
