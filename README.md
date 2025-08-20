@@ -137,6 +137,12 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     For each city, find the category that has the highest total sales amount.
     Print results like
     city -> category (Total amount)
+35. Given a list of Student objects
+	Group students by their department.
+	For each department, find the average GPA.
+	Also, find the top student (highest GPA) in each department.
+	Finally, sort the departments by average GPA (descending order) and print:
+		Department -> Average GPA | Top Student
 </pre>
 
 <h2>Bonus Problem Statements</h2>
