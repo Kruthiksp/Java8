@@ -143,6 +143,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Also, find the top student (highest GPA) in each department.
 	Finally, sort the departments by average GPA (descending order) and print:
 		Department -> Average GPA | Top Student
+36. Given a list of Transaction objects, 
+    Group them by customerName and find:
+    Total transaction amount per customer.
+    Highest transaction per customer.
+    Print customers sorted by their total transaction amount (descending), along with their highest transaction.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
