@@ -148,6 +148,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Total transaction amount per customer.
     Highest transaction per customer.
     Print customers sorted by their total transaction amount (descending), along with their highest transaction.
+37. Given a list of Employee objects
+	Group employees by department and find the total salary per department.
+	From each department, find the employee with the lowest salary.
+	Print departments sorted by total salary (descending) along with the employee having the lowest salary in that department.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
