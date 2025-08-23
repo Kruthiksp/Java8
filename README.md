@@ -152,6 +152,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Group employees by department and find the total salary per department.
 	From each department, find the employee with the lowest salary.
 	Print departments sorted by total salary (descending) along with the employee having the lowest salary in that department.
+38. Given a list of Transaction objects
+    Find the total amount of all CREDIT transactions.
+    Get the list of transactions greater than 1000.
+    Find the transaction with the maximum amount.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
