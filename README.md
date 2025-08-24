@@ -156,6 +156,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Find the total amount of all CREDIT transactions.
     Get the list of transactions greater than 1000.
     Find the transaction with the maximum amount.
+39. Given a list of integers
+    -> Use a Predicate to filter and print only even numbers.
+    -> Use a Function to square each number and collect results into a new list.
+    -> Use a Consumer to print each element of the squared list.
+    -> Use a Supplier to generate a random number between 1–100.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
