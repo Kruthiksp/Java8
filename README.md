@@ -161,6 +161,19 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Use a Function to square each number and collect results into a new list.
     -> Use a Consumer to print each element of the squared list.
     -> Use a Supplier to generate a random number between 1–100.
+40. Use Predicate to filter employees whose names:
+    -> Start with "A" or "D".
+    -> And have length greater than 3.
+    Use Function chaining to:
+    -> Convert each name to uppercase.
+    -> Then append " - Employee".
+    Use Consumer chaining to print each processed name in two ways:
+    -> First just print the name.
+    -> Then print "Processed: <name>".
+41. Given a list of numbers:
+    -> Use a static method reference to check if a number is even.
+    -> Use an instance method reference to print each number.
+    -> Use a constructor reference to convert the list of strings into a list of Employee objects.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
