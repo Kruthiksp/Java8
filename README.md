@@ -174,6 +174,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Use a static method reference to check if a number is even.
     -> Use an instance method reference to print each number.
     -> Use a constructor reference to convert the list of strings into a list of Employee objects.
+42. Given a method:
+    -> Wrap the result of getEmailByUsername() in an Optional.
+    -> Print the email if present, otherwise print "Email not found".
+    -> Use orElseGet() to return a default email ("default@example.com").
+    -> Use map() to transform the email to uppercase if it exists.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
