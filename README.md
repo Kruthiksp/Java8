@@ -179,6 +179,13 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Print the email if present, otherwise print "Email not found".
     -> Use orElseGet() to return a default email ("default@example.com").
     -> Use map() to transform the email to uppercase if it exists.
+43. Given a list of employees:
+    -> For each employee, safely get their email using Optional.ofNullable().
+    -> If email is missing, return "no-email@company.com".
+    -> Find the first employee whose email starts with "c" (case-insensitive).
+    -> Use stream + findFirst() which returns Optional<Employee>.
+    -> If found, print their email in uppercase, otherwise "No employee found".
+    -> Count how many employees actually have an email (non-null).
 </pre>
 
 <h2>Bonus Problem Statements</h2>
