@@ -191,6 +191,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
         If city not present, return "City not available".
     -> Exttract all the cities ignoring the null ones.
     -> Print the first city that starts with "B", or "No city found".
+45. Given a List of Employee Objects.
+    -> Group employees by department
+    -> Find the average salary of each department.
+    -> Partition employees into high earners (salary > 50,000) and others.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
