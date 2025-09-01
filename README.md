@@ -199,6 +199,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Find the total amount of all transactions using Collectors.reducing.
     -> Find the transaction with the maximum amount.
     -> Use Collectors.summarizingDouble to get count, sum, min, average, and max of transaction amounts.
+47. Given a list of Integers.
+    -> Calculate the sum using a sequential stream and measure execution time.
+    -> Calculate the sum using a parallel stream and measure execution time.
+    -> Compare performance and explain when parallel streams are beneficial.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
