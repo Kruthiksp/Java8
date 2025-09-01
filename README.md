@@ -195,6 +195,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Group employees by department
     -> Find the average salary of each department.
     -> Partition employees into high earners (salary > 50,000) and others.
+46. Given a list of transactions:
+    -> Find the total amount of all transactions using Collectors.reducing.
+    -> Find the transaction with the maximum amount.
+    -> Use Collectors.summarizingDouble to get count, sum, min, average, and max of transaction amounts.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
