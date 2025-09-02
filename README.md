@@ -203,6 +203,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Calculate the sum using a sequential stream and measure execution time.
     -> Calculate the sum using a parallel stream and measure execution time.
     -> Compare performance and explain when parallel streams are beneficial.
+48. Given a List of Integer.
+    -> Find all prime numbers from the list.
+    -> Use both sequential stream and parallel stream to process, and compare their performance.
+    -> Print the time taken for each.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
