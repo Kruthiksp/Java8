@@ -212,6 +212,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Print the total count of primes.
     -> Print the first 20 primes as a sample.
     -> Compare execution time with your Day 48 prime-check approach.
+50. Given a List of Employee Objects.
+    -> Group employees by department using Collectors.groupingBy.
+    -> Find the average salary per department.
+    -> Find the highest-paid employee per department.
+    -> Collect all employee names into a comma-separated string.
 </pre>
 
 <h2>Bonus Problem Statements</h2>

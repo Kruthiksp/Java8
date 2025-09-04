@@ -2,6 +2,7 @@ package com.kruthik.java8.entities;
 
 public class Employee {
 
+	private int id;
 	private String department;
 	private String name;
 	private double salary;
@@ -18,7 +19,6 @@ public class Employee {
 	 * @param name
 	 * @param salary
 	 */
-
 	public Employee(String name, double salary) {
 		super();
 		this.name = name;
@@ -32,34 +32,47 @@ public class Employee {
 		this.salary = salary;
 	}
 
-	public String getDepartment() {
-		return department;
+	/**
+	 * For Day-50
+	 * 
+	 * @param id
+	 * @param department
+	 * @param name
+	 * @param salary
+	 */
+	public Employee(int id, String department, String name, double salary) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.department = department;
+		this.salary = salary;
 	}
 
-	public void setDepartment(String department) {
-		this.department = department;
+	public int getId() {
+		return id;
+	}
+
+	public String getDepartment() {
+		return department;
 	}
 
 	public String getName() {
 		return name;
 	}
 
-	public void setName(String name) {
-		this.name = name;
-	}
-
 	public double getSalary() {
 		return salary;
 	}
 
-	public void setSalary(double salary) {
-		this.salary = salary;
-	}
-
 	@Override
 	public String toString() {
-		return "Employee [department=" + department + ", name=" + name + ", salary=" + salary + "]";
+		return "Employee [id=" + id + ", department=" + department + ", name=" + name + ", salary=" + salary + "]";
 	}
+
+//	@Override
+//	public String toString() {
+//		return "Employee [department=" + department + ", name=" + name + ", salary=" + salary + "]";
+//	}
 
 //	@Override
 //	public String toString() {
