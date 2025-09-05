@@ -217,6 +217,12 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Find the average salary per department.
     -> Find the highest-paid employee per department.
     -> Collect all employee names into a comma-separated string.
+51. Given a List of Person Objects.
+    Partition people into 2 groups
+        -> Minors 
+        -> Adults
+    Get IntSummaryStatistics for ages.
+    Collect all unique ages into a Set.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
