@@ -223,6 +223,14 @@ Solving one Java8 questions daily starting from very basic to advance covering a
         -> Adults
     Get IntSummaryStatistics for ages.
     Collect all unique ages into a Set.
+52. Given a list of User Objects.
+    Extract all unique email addresses from the list of users using Streams + flatMap().
+    Print them in sorted order.
+53. Given a list of Transaction objects
+	Calculate the total credited amount and total debited amount separately.
+	Find the highest transaction amount.
+	Find the user with the maximum total transaction amount (sum of all their transactions).
+	Create a comma-separated string of all unique transaction types.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
