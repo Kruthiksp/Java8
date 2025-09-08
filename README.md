@@ -231,6 +231,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Find the highest transaction amount.
 	Find the user with the maximum total transaction amount (sum of all their transactions).
 	Create a comma-separated string of all unique transaction types.
+54. Find the first order with status = "NEW".
+	Find any order with status = "COMPLETED".
+	Calculate the total revenue from all COMPLETED orders.
+	Partition orders into completed vs not completed using partitioningBy.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
