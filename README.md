@@ -235,6 +235,8 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Find any order with status = "COMPLETED".
 	Calculate the total revenue from all COMPLETED orders.
 	Partition orders into completed vs not completed using partitioningBy.
+55. Given a List of Transaction Objects.
+    Find Total Transaction Amount and Maximum Transaction using teeing.
 </pre>
 
 <h2>Bonus Problem Statements</h2>
