@@ -237,6 +237,12 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Partition orders into completed vs not completed using partitioningBy.
 55. Given a List of Transaction Objects.
     Find Total Transaction Amount and Maximum Transaction using teeing.
+56. Given a List of Employee Objects.
+	Group employees by department.
+	For each department, compute:
+		-> The total salary.
+		-> The employee with the highest salary.
+	Return the result as a Map<String, Map<String, Object>>
 </pre>
 
 <h2>Bonus Problem Statements</h2>
