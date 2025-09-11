@@ -243,6 +243,12 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 		-> The total salary.
 		-> The employee with the highest salary.
 	Return the result as a Map<String, Map<String, Object>>
+57. Given a list of products:
+	Group products by category.
+    For each category:
+        -> Collect all product names into a comma-separated String (e.g., "TV, Laptop, Phone").
+        -> Find the average price.
+    Return a Map<String, Map<String, Object>> like this:
 </pre>
 
 <h2>Bonus Problem Statements</h2>
