@@ -248,7 +248,8 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     For each category:
         -> Collect all product names into a comma-separated String (e.g., "TV, Laptop, Phone").
         -> Find the average price.
-    Return a Map<String, Map<String, Object>> like this:
+    Return a Map<String, Map<String, Object>> like this
+58. Create Custom Collector to collect Department and its total salary into a Map<String, Double>
 </pre>
 
 <h2>Bonus Problem Statements</h2>
