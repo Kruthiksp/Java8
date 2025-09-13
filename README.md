@@ -250,6 +250,13 @@ Solving one Java8 questions daily starting from very basic to advance covering a
         -> Find the average price.
     Return a Map<String, Map<String, Object>> like this
 58. Create Custom Collector to collect Department and its total salary into a Map<String, Double>
+59. Given a List of Order Objects.
+	Group orders by their status.
+	For each status, calculate:
+		-> Total Revenue (sum of amount)
+		-> List of unique customer names
+		-> List of all purchased items (flattened, no duplicates)
+	Return the result as a Map<Status, Map<String, Object>>
 </pre>
 
 <h2>Bonus Problem Statements</h2>
