@@ -256,10 +256,18 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 		-> Total Revenue (sum of amount)
 		-> List of unique customer names
 		-> List of all purchased items (flattened, no duplicates)
-	Return the result as a Map<Status, Map<String, Object>>
+	Return the result as a Map<Status, Map<String, Object>>.
+60. Given a group of Employee Objects.
+	Group employees by department and within each department:
+		-> Find the highest paid employee.
+		-> Find the average salary.
+		-> Find the most experienced employee.
+	Collect the result in a Map<String, Map<String, Object>>, where:
+		-> Key = Department name
+		-> Value = Map with keys "highestPaid", "averageSalary", "mostExperienced".
 </pre>
 
-<h2>Bonus Problem Statements</h2>
+<!-- <h2>Bonus Problem Statements</h2>
 <pre>
 01. Given a list of Employee Objects,
     Sort the list of Employee objects by department.
@@ -271,4 +279,4 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Collect the result into a List<String>.
 04. Sort the resulting of Day_18 map by average price in descending order and 
     collect it into a LinkedHashMap to preserve that order?
-</pre>
+</pre> -->
