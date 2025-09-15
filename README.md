@@ -265,6 +265,14 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Collect the result in a Map<String, Map<String, Object>>, where:
 		-> Key = Department name
 		-> Value = Map with keys "highestPaid", "averageSalary", "mostExperienced".
+61. Given a List of Employee Objects.
+    Partition employees into two groups:
+		-> Experienced (experience >= 5 years)
+		-> Less Experienced (experience < 5 years)
+	For each partition, calculate two things at once (use teeing):
+		-> Total Salary
+		-> Highest Paid Employee
+	Return a Map<Boolean, Map<String, Object>>.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
