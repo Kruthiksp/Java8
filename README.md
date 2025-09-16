@@ -273,6 +273,13 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 		-> Total Salary
 		-> Highest Paid Employee
 	Return a Map<Boolean, Map<String, Object>>.
+62. Given a List of Employee Object.
+    Write a Java 8 program that groups employees by their city and, for each city, calculates:
+		-> Average salary
+		-> List of distinct departments
+		-> The name of the most experienced employee in that city
+	Return the result as a Map<String, CityReport> where CityReport is a custom class (or record) that holds:
+		-> double avgSalary -> Set<String> departments -> Employee mostExperiencedEmp
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>

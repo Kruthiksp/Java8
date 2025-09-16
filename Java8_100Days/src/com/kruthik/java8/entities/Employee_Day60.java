@@ -5,7 +5,19 @@ public class Employee_Day60 {
 	private String department;
 	private double salary;
 	private int experience;
+	private String city;
 
+	// Day 62
+	public Employee_Day60(String name, String department, double salary, int experience, String city) {
+		super();
+		this.name = name;
+		this.department = department;
+		this.salary = salary;
+		this.experience = experience;
+		this.city = city;
+	}
+
+	// Day 60 and 61
 	public Employee_Day60(String name, String department, double salary, int experience) {
 		super();
 		this.name = name;
@@ -30,10 +42,14 @@ public class Employee_Day60 {
 		return experience;
 	}
 
+	public String getCity() {
+		return city;
+	}
+
 	@Override
 	public String toString() {
 		return "Employee [name=" + name + ", department=" + department + ", salary=" + salary + ", experience="
-				+ experience + "]";
+				+ experience + "city=" + city + "]";
 	}
 
 }
