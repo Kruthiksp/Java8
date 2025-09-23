@@ -280,6 +280,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 		-> The name of the most experienced employee in that city
 	Return the result as a Map<String, CityReport> where CityReport is a custom class (or record) that holds:
 		-> double avgSalary -> Set<String> departments -> Employee mostExperiencedEmp
+63. Given a List of Transaction Objects:
+    Group transactions by city, and for each city:
+	-> Calculate the total amount spent
+	-> Find the highest transaction (by amount)
+	-> Collect the distinct types of transactions
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
