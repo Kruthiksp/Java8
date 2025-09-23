@@ -284,7 +284,12 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Group transactions by city, and for each city:
 	-> Calculate the total amount spent
 	-> Find the highest transaction (by amount)
-	-> Collect the distinct types of transactions
+	-> Collect the distinct types of transactions.
+64. Given a List of Order Objects.
+	Group the orders by city, and for each city:
+	-> Find the total order amount.
+	-> Find the average order amount per category (nested grouping by category).
+	-> Find the highest order (max by amount).
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
