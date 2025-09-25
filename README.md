@@ -290,6 +290,17 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	-> Find the total order amount.
 	-> Find the average order amount per category (nested grouping by category).
 	-> Find the highest order (max by amount).
+65. Given a List of Customer Objects.
+	totalRevenue -> Sum of all amount for "DELIVERED" orders.
+	topCustomer -> Customer who spent the most (only "DELIVERED" orders count).
+	orderStatuses -> A Set<String> containing all distinct order statuses found in that city.
+66. Given a List of Customer Objects.
+	Total revenue (sum of all orders in that city).
+	Top customer (the customer who spent the most in that city).
+	Distinct product list bought in that city.
+		Return the result as a Map<String, Map<String, Object>> where:
+		key = city
+		value = { totalRevenue, topCustomer, products }
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
