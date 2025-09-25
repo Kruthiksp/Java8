@@ -6,6 +6,7 @@ public class Order_Day59 {
 
 	private String orderId;
 	private String customerName;
+	private String city; // for Day_68
 	private double amount;
 	private String status;
 	private List<String> items;
@@ -19,12 +20,30 @@ public class Order_Day59 {
 		this.items = items;
 	}
 
+	/**
+	 * For Day_68
+	 */
+	public Order_Day59(String orderId, String customerName, String city, double amount, String status,
+			List<String> items) {
+		super();
+		this.orderId = orderId;
+		this.customerName = customerName;
+		this.city = city;
+		this.amount = amount;
+		this.status = status;
+		this.items = items;
+	}
+
 	public String getOrderId() {
 		return orderId;
 	}
 
 	public String getCustomerName() {
 		return customerName;
+	}
+
+	public String getCity() {
+		return city;
 	}
 
 	public double getAmount() {
@@ -39,10 +58,15 @@ public class Order_Day59 {
 		return items;
 	}
 
+//	@Override
+//	public String toString() {
+//		return "Order [orderId=" + orderId + ", customerName=" + customerName + ", amount=" + amount + ", status="
+//				+ status + ", items=" + items + "]";
+//	}
 	@Override
 	public String toString() {
-		return "Order_Day59 [orderId=" + orderId + ", customerName=" + customerName + ", amount=" + amount + ", status="
-				+ status + ", items=" + items + "]";
+		return "Order [orderId=" + orderId + ", Customer Name=" + customerName + ", City= " + city + ", amount="
+				+ amount + ", status=" + status + ", items=" + items + "]";
 	}
 
 }

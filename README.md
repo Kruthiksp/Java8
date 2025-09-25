@@ -301,6 +301,18 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 		Return the result as a Map<String, Map<String, Object>> where:
 		key = city
 		value = { totalRevenue, topCustomer, products }
+67. Given a List of Employee Objects.
+    -> Generate a report grouped by department
+  	-> Average salary
+	-> Most experienced employee
+	-> Highest paid employee
+	-> Number of employees per city
+	And collect the result as Map<String, DepartmentReport>
+<!-- 68. Given a List of Order Objects For each city, generate a report containing:
+	-> Total revenue from COMPLETED orders.
+	-> Top 2 customers by total spending in that city.
+	-> Distinct set of products purchased in that city.
+	-> Order status breakdown -> count of orders per status. -->
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
