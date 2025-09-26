@@ -308,11 +308,17 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	-> Highest paid employee
 	-> Number of employees per city
 	And collect the result as Map<String, DepartmentReport>
-<!-- 68. Given a List of Order Objects For each city, generate a report containing:
+68. Given a List of Order Objects For each city, generate a report containing:
 	-> Total revenue from COMPLETED orders.
 	-> Top 2 customers by total spending in that city.
 	-> Distinct set of products purchased in that city.
-	-> Order status breakdown -> count of orders per status. -->
+	-> Order status breakdown -> count of orders per status.
+69. Given a List of Projects Object
+  	Generate a DomainReport for each domain containing:
+    -> Total budget allocated to that domain
+    -> Average budget per project
+    -> Project with the maximum budget
+    -> Unique team members working in that domain
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
