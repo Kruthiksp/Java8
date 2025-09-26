@@ -318,7 +318,13 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     -> Total budget allocated to that domain
     -> Average budget per project
     -> Project with the maximum budget
-    -> Unique team members working in that domain
+    -> Unique team members working in that domain.
+70. Given a List of Invoice Objects.
+  	generate a report grouped by category that includes:
+		-> Total Revenue for each category
+		-> Average Invoice Amount per category
+		-> Top Customer (customer who spent the most in that category)
+		-> Monthly Breakdown (Map of Month -> Total Amount)
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
