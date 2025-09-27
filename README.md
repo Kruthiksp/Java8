@@ -331,6 +331,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Collect the results into a Map<String, Employee> where:
 		key = department
 		value = highest-paid employee.
+72. Given a List of Transaction Objects
+  	Calculate the total credit amount.
+	Calculate the total debit amount.
+	Find the transaction with the maximum amount.
+	Partition the transactions into credit and debit groups using Collectors.partitioningBy.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
