@@ -336,6 +336,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Calculate the total debit amount.
 	Find the transaction with the maximum amount.
 	Partition the transactions into credit and debit groups using Collectors.partitioningBy.
+73. Given a List of Order Objects.
+   	Find all unique items bought across all orders (flatten items).
+	Count how many times each item was bought (frequency).
+	Find the customer who spent the maximum total amount (group by customer and sum).
+	Return a Map<String, Object>
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
