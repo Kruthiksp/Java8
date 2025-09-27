@@ -325,6 +325,12 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 		-> Average Invoice Amount per category
 		-> Top Customer (customer who spent the most in that category)
 		-> Monthly Breakdown (Map of Month -> Total Amount)
+71. Given a List of Employee Objects
+    Group employees by department.
+	For each department, find the highest-paid employee.
+	Collect the results into a Map<String, Employee> where:
+		key = department
+		value = highest-paid employee.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
