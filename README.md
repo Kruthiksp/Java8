@@ -341,6 +341,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Count how many times each item was bought (frequency).
 	Find the customer who spent the maximum total amount (group by customer and sum).
 	Return a Map<String, Object>
+74. Given a List of Student Objects.
+	Find the average marks of each department.
+	Find the student with the highest marks overall.
+	Create a Map<String, List<String>> -> where key = department, value = list of student names sorted by marks (descending).
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
