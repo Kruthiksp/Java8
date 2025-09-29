@@ -345,6 +345,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Find the average marks of each department.
 	Find the student with the highest marks overall.
 	Create a Map<String, List<String>> -> where key = department, value = list of student names sorted by marks (descending).
+75. Given a List of Product Objects.
+    Group products by category. Within each category,
+	-> find the average price.
+	-> find the highest-rated product.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
