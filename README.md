@@ -349,6 +349,9 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Group products by category. Within each category,
 	-> find the average price.
 	-> find the highest-rated product.
+76. Given a List of Integers.
+    Collect them as a ';' separated String.
+    using Custom collector.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
