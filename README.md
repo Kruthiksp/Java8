@@ -352,6 +352,9 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 76. Given a List of Integers.
     Collect them as a ';' separated String.
     using Custom collector.
+77. Given a stream of integers,
+    Create a custom collector that,
+    Produces a result containing both the sum and the average in a single pass.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
