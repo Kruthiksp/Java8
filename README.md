@@ -355,6 +355,9 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 77. Given a stream of integers,
     Create a custom collector that,
     Produces a result containing both the sum and the average in a single pass.
+78. Create a custom collector that takes a stream of strings and
+    groups them by their first character,
+    while also counting how many words fall into each group.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
