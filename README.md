@@ -358,6 +358,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 78. Create a custom collector that takes a stream of strings and
     groups them by their first character,
     while also counting how many words fall into each group.
+79. Write a custom collector that takes a Stream<Integer> and returns a Map<String, Double> with the following keys:
+	"positiveSum" -> Sum of all positive numbers
+	"negativeSum" -> Sum of all negative numbers
+	"average" -> Average of all numbers (positive + negative)
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
