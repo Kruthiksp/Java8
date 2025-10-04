@@ -362,6 +362,9 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	"positiveSum" -> Sum of all positive numbers
 	"negativeSum" -> Sum of all negative numbers
 	"average" -> Average of all numbers (positive + negative)
+80. Create a custom collector that takes a Stream<String> and collects it into a Map<Integer, List<String>>
+    The key is the length of the string.
+    The value is a list of all strings with that length.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
