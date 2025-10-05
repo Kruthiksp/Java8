@@ -365,6 +365,14 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 80. Create a custom collector that takes a Stream<String> and collects it into a Map<Integer, List<String>>
     The key is the length of the string.
     The value is a list of all strings with that length.
+81. Custom Collector (Intermediate - Grouping + Statistics)
+	Create a custom collector that takes a stream of Product objects and returns a Map<String, Map<String, Object>>, where:
+	The outer map's key is the product's category.
+	The inner map contains:
+		"totalProducts" -> total number of products in that category
+		"totalPrice" -> sum of all product prices in that category
+		"averagePrice" -> average price of products in that category
+		"maxPriceProduct" -> product with the highest price in that category
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
