@@ -373,6 +373,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 		"totalPrice" -> sum of all product prices in that category
 		"averagePrice" -> average price of products in that category
 		"maxPriceProduct" -> product with the highest price in that category
+82. Create a custom collector that takes a stream of Product objects and returns a Map<String, List<Product>>,
+    where:
+	key -> category of the product.
+	value -> list of only those products whose rating >= 4.5, And Sorted the values by price descending.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
