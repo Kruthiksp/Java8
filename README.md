@@ -377,6 +377,9 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     where:
 	key -> category of the product.
 	value -> list of only those products whose rating >= 4.5, And Sorted the values by price descending.
+83. Create a custom collector that takes a stream of Product objects and groups them by category, while also computing three statistics per category:
+	Total number of products, Total price, Average rating
+	Finally, return a Map<String, Map<String, Object>> with category as the key and the inner map containing these 3 statistics.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
