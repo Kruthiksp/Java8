@@ -384,6 +384,13 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	where:
 	key -> first character of the string.
 	value -> comma-separated string containing all words that start with that character.
+85. Create a custom collector that takes a stream of Product objects and collects them into a
+	Map<String, Map<String, Object>>, where:
+	Outer Map key -> Category of the product
+	Inner Map should contain:
+		"totalPrice" -> sum of prices of products in that category
+		"averagePrice" -> average price in that category
+		"productNames" -> comma-separated string of product names in that category (in insertion order)
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
