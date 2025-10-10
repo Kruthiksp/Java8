@@ -391,6 +391,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 		"totalPrice" -> sum of prices of products in that category
 		"averagePrice" -> average price in that category
 		"productNames" -> comma-separated string of product names in that category (in insertion order)
+86. Create a custom collector that takes a stream of Product objects and returns a
+	Map<String, Product>, where:
+	key -> product's category
+	value -> product with the highest rating in that category
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
