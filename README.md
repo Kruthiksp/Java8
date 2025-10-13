@@ -395,6 +395,9 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Map<String, Product>, where:
 	key -> product's category
 	value -> product with the highest rating in that category
+87. Write a custom collector that collects a stream of strings into a Map<Integer, List<String>>,
+	where: key -> length of the string
+	    value -> list of all strings of that length, sorted in alphabetical order.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
