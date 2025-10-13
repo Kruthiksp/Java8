@@ -398,6 +398,11 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 87. Write a custom collector that collects a stream of strings into a Map<Integer, List<String>>,
 	where: key -> length of the string
 	    value -> list of all strings of that length, sorted in alphabetical order.
+88. Given a list of Product objects, Group products by category and produce a Map<String, Map<String, Object>> 
+	where:
+	"minPrice" -> minimum price in the category
+	"maxPrice" -> maximum price in the category
+	"averageRating" -> average rating of all products in the category
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
