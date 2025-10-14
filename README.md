@@ -403,6 +403,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	"minPrice" -> minimum price in the category
 	"maxPrice" -> maximum price in the category
 	"averageRating" -> average rating of all products in the category
+89. Given a list of Product objects, group them by category and then for each category,
+    Find the product with the highest rating,
+    Collect all the product names in that category into a comma-separated string,
+    Calculate the total number of products in that category.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
