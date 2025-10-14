@@ -407,6 +407,9 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     Find the product with the highest rating,
     Collect all the product names in that category into a comma-separated string,
     Calculate the total number of products in that category.
+90. Given a list of Order objects, each Order has List<Item>
+    Group them by customer name and
+    Compute totalSpent, uniqueItems, orderCount
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
