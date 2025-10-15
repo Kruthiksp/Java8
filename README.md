@@ -410,6 +410,9 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 90. Given a list of Order objects, each Order has List<Item>
     Group them by customer name and
     Compute totalSpent, uniqueItems, orderCount
+91. Given a List of Employee Objects.
+	Group employees by department and extract top 3 highest paid employees in each department.
+	sorted in descending order of salary.
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
