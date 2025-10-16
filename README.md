@@ -413,6 +413,30 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 91. Given a List of Employee Objects.
 	Group employees by department and extract top 3 highest paid employees in each department.
 	sorted in descending order of salary.
+92. Given a List of Product Objects.
+	create a Map<String, String>, where
+	key = category 
+    value = comma-separated names of all products in that category.
+<!--
+93. Given a List<String> words,
+    Return a Set<String> containing only duplicate elements (case-sensitive) using streams.
+94. Given a String, Return a Map<Character, Long> that counts occurrences of each character (ignore case and spaces).
+95. Given a List of Order Objects where each Order has orderId, customerName, and List<Item> (with price, quantity):
+	Produce a Map<String, Object> containing:
+	"totalOrders" = total number of orders
+	"totalRevenue" = sum of price * quantity of all items
+	"uniqueCustomers" = count of distinct customers
+96. Given a list of words, Return a Map<Integer, List<String>> where:
+    key = length,
+    value = sorted list of words with that length.
+97. Given a list of Product objects, Return a Map<String, Product> where
+    key = category
+    value = product with max price in that category.
+98. Given a list of Product with category and rating,
+	Return a Map<String, Double> containing average rating per category using Collectors.reducing (no averaging collector).
+99. 
+100. 
+-->
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
