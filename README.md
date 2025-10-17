@@ -417,9 +417,9 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	create a Map<String, String>, where
 	key = category 
     value = comma-separated names of all products in that category.
-<!--
 93. Given a List<String> words,
     Return a Set<String> containing only duplicate elements (case-sensitive) using streams.
+<!--
 94. Given a String, Return a Map<Character, Long> that counts occurrences of each character (ignore case and spaces).
 95. Given a List of Order Objects where each Order has orderId, customerName, and List<Item> (with price, quantity):
 	Produce a Map<String, Object> containing:
@@ -434,8 +434,9 @@ Solving one Java8 questions daily starting from very basic to advance covering a
     value = product with max price in that category.
 98. Given a list of Product with category and rating,
 	Return a Map<String, Double> containing average rating per category using Collectors.reducing (no averaging collector).
-99. 
-100. 
+99. Given List<Order> each with List<Item>,
+    Flatten all items across orders and compute the total price (price * quantity) of all items.
+100. Given a list of Employee objects, find the N-th highest salary using stream API (no loops, no sorting twice).
 -->
 </pre>
 
