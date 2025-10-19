@@ -420,12 +420,12 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 93. Given a List<String> words,
     Return a Set<String> containing only duplicate elements (case-sensitive) using streams.
 94. Given a String, Return a Map<Character, Long> that counts occurrences of each character (ignore case and spaces).
-<!--
 95. Given a List of Order Objects where each Order has orderId, customerName, and List<Item> (with price, quantity):
 	Produce a Map<String, Object> containing:
 	"totalOrders" = total number of orders
 	"totalRevenue" = sum of price * quantity of all items
 	"uniqueCustomers" = count of distinct customers
+<!--
 96. Given a list of words, Return a Map<Integer, List<String>> where:
     key = length,
     value = sorted list of words with that length.
