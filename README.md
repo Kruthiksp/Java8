@@ -425,10 +425,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	"totalOrders" = total number of orders
 	"totalRevenue" = sum of price * quantity of all items
 	"uniqueCustomers" = count of distinct customers
-<!--
 96. Given a list of words, Return a Map<Integer, List<String>> where:
     key = length,
     value = sorted list of words with that length.
+<!--
 97. Given a list of Product objects, Return a Map<String, Product> where
     key = category
     value = product with max price in that category.
