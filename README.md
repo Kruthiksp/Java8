@@ -428,10 +428,10 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 96. Given a list of words, Return a Map<Integer, List<String>> where:
     key = length,
     value = sorted list of words with that length.
-<!--
 97. Given a list of Product objects, Return a Map<String, Product> where
     key = category
     value = product with max price in that category.
+<!--
 98. Given a list of Product with category and rating,
 	Return a Map<String, Double> containing average rating per category using Collectors.reducing (no averaging collector).
 99. Given List<Order> each with List<Item>,
