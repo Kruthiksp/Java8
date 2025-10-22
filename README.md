@@ -431,9 +431,9 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 97. Given a list of Product objects, Return a Map<String, Product> where
     key = category
     value = product with max price in that category.
-<!--
 98. Given a list of Product with category and rating,
 	Return a Map<String, Double> containing average rating per category using Collectors.reducing (no averaging collector).
+<!--
 99. Given List<Order> each with List<Item>,
     Flatten all items across orders and compute the total price (price * quantity) of all items.
 100. Given a list of Employee objects, find the N-th highest salary using stream API (no loops, no sorting twice).
