@@ -435,9 +435,7 @@ Solving one Java8 questions daily starting from very basic to advance covering a
 	Return a Map<String, Double> containing average rating per category using Collectors.reducing (no averaging collector).
 99. Given List<Order> each with List<Item>,
     Flatten all items across orders and compute the total price (price * quantity) of all items.
-<!--
 100. Given a list of Employee objects, find the N-th highest salary using stream API (no loops, no sorting twice).
--->
 </pre>
 
 <!-- <h2>Bonus Problem Statements</h2>
